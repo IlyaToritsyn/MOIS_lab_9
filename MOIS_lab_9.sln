@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30104.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MOIS_lab_9", "MOIS_lab_9\MOIS_lab_9.csproj", "{BAEC309B-4DA2-49E9-8F84-F2CA19972CE7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary", "ClassLibrary\ClassLibrary.csproj", "{992B8FB0-E6A6-4AF6-BE00-2B907AB8749D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BAEC309B-4DA2-49E9-8F84-F2CA19972CE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAEC309B-4DA2-49E9-8F84-F2CA19972CE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAEC309B-4DA2-49E9-8F84-F2CA19972CE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAEC309B-4DA2-49E9-8F84-F2CA19972CE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{992B8FB0-E6A6-4AF6-BE00-2B907AB8749D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{992B8FB0-E6A6-4AF6-BE00-2B907AB8749D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{992B8FB0-E6A6-4AF6-BE00-2B907AB8749D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{992B8FB0-E6A6-4AF6-BE00-2B907AB8749D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5B6F6C58-BB22-48E2-A26A-2A6C2E6234DD}
+	EndGlobalSection
+EndGlobal
